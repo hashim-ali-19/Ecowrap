@@ -1,6 +1,6 @@
 #  Ecowrap — Website Using HTML CSS
  
-![image alt](home.png)
+![image alt](Home1.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ###  Products
  
-![image alt](products.png)
+![image alt](ourproducts.png)
 
 ---
 
